@@ -1,0 +1,1742 @@
+[
+  {
+    "day": "01",
+    "segments": [
+      {
+        "name": "night_before",
+        "start": 0,
+        "end": 5.65
+      },
+      {
+        "name": "astronomical_twilight",
+        "start": 5.65,
+        "end": 6.183333333333334
+      },
+      {
+        "name": "nautical_twilight",
+        "start": 6.183333333333334,
+        "end": 6.75
+      },
+      {
+        "name": "civil_twilight",
+        "start": 6.75,
+        "end": 7.25
+      },
+      {
+        "name": "golden_hour_morning",
+        "start": 7.25,
+        "end": 8.25
+      },
+      {
+        "name": "daylight",
+        "start": 8.25,
+        "end": 16.266666666666666
+      },
+      {
+        "name": "golden_hour_evening",
+        "start": 16.266666666666666,
+        "end": 17.266666666666666
+      },
+      {
+        "name": "civil_twilight_end",
+        "start": 17.266666666666666,
+        "end": 17.766666666666666
+      },
+      {
+        "name": "nautical_twilight_end",
+        "start": 17.766666666666666,
+        "end": 18.316666666666666
+      },
+      {
+        "name": "astronomical_twilight_end",
+        "start": 18.316666666666666,
+        "end": 18.866666666666667
+      },
+      {
+        "name": "night_after",
+        "start": 18.866666666666667,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "day": "02",
+    "segments": [
+      {
+        "name": "night_before",
+        "start": 0,
+        "end": 5.633333333333333
+      },
+      {
+        "name": "astronomical_twilight",
+        "start": 5.633333333333333,
+        "end": 6.166666666666667
+      },
+      {
+        "name": "nautical_twilight",
+        "start": 6.166666666666667,
+        "end": 6.733333333333333
+      },
+      {
+        "name": "civil_twilight",
+        "start": 6.733333333333333,
+        "end": 7.233333333333333
+      },
+      {
+        "name": "golden_hour_morning",
+        "start": 7.233333333333333,
+        "end": 8.233333333333333
+      },
+      {
+        "name": "daylight",
+        "start": 8.233333333333333,
+        "end": 16.283333333333335
+      },
+      {
+        "name": "golden_hour_evening",
+        "start": 16.283333333333335,
+        "end": 17.283333333333335
+      },
+      {
+        "name": "civil_twilight_end",
+        "start": 17.283333333333335,
+        "end": 17.783333333333335
+      },
+      {
+        "name": "nautical_twilight_end",
+        "start": 17.783333333333335,
+        "end": 18.333333333333332
+      },
+      {
+        "name": "astronomical_twilight_end",
+        "start": 18.333333333333332,
+        "end": 18.883333333333333
+      },
+      {
+        "name": "night_after",
+        "start": 18.883333333333333,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "day": "03",
+    "segments": [
+      {
+        "name": "night_before",
+        "start": 0,
+        "end": 5.616666666666667
+      },
+      {
+        "name": "astronomical_twilight",
+        "start": 5.616666666666667,
+        "end": 6.15
+      },
+      {
+        "name": "nautical_twilight",
+        "start": 6.15,
+        "end": 6.716666666666667
+      },
+      {
+        "name": "civil_twilight",
+        "start": 6.716666666666667,
+        "end": 7.216666666666667
+      },
+      {
+        "name": "golden_hour_morning",
+        "start": 7.216666666666667,
+        "end": 8.216666666666667
+      },
+      {
+        "name": "daylight",
+        "start": 8.216666666666667,
+        "end": 16.3
+      },
+      {
+        "name": "golden_hour_evening",
+        "start": 16.3,
+        "end": 17.3
+      },
+      {
+        "name": "civil_twilight_end",
+        "start": 17.3,
+        "end": 17.8
+      },
+      {
+        "name": "nautical_twilight_end",
+        "start": 17.8,
+        "end": 18.35
+      },
+      {
+        "name": "astronomical_twilight_end",
+        "start": 18.35,
+        "end": 18.9
+      },
+      {
+        "name": "night_after",
+        "start": 18.9,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "day": "04",
+    "segments": [
+      {
+        "name": "night_before",
+        "start": 0,
+        "end": 5.6
+      },
+      {
+        "name": "astronomical_twilight",
+        "start": 5.6,
+        "end": 6.15
+      },
+      {
+        "name": "nautical_twilight",
+        "start": 6.15,
+        "end": 6.7
+      },
+      {
+        "name": "civil_twilight",
+        "start": 6.7,
+        "end": 7.2
+      },
+      {
+        "name": "golden_hour_morning",
+        "start": 7.2,
+        "end": 8.2
+      },
+      {
+        "name": "daylight",
+        "start": 8.2,
+        "end": 16.333333333333332
+      },
+      {
+        "name": "golden_hour_evening",
+        "start": 16.333333333333332,
+        "end": 17.333333333333332
+      },
+      {
+        "name": "civil_twilight_end",
+        "start": 17.333333333333332,
+        "end": 17.816666666666666
+      },
+      {
+        "name": "nautical_twilight_end",
+        "start": 17.816666666666666,
+        "end": 18.383333333333333
+      },
+      {
+        "name": "astronomical_twilight_end",
+        "start": 18.383333333333333,
+        "end": 18.916666666666668
+      },
+      {
+        "name": "night_after",
+        "start": 18.916666666666668,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "day": "05",
+    "segments": [
+      {
+        "name": "night_before",
+        "start": 0,
+        "end": 5.583333333333333
+      },
+      {
+        "name": "astronomical_twilight",
+        "start": 5.583333333333333,
+        "end": 6.133333333333334
+      },
+      {
+        "name": "nautical_twilight",
+        "start": 6.133333333333334,
+        "end": 6.683333333333334
+      },
+      {
+        "name": "civil_twilight",
+        "start": 6.683333333333334,
+        "end": 7.166666666666667
+      },
+      {
+        "name": "golden_hour_morning",
+        "start": 7.166666666666667,
+        "end": 8.166666666666666
+      },
+      {
+        "name": "daylight",
+        "start": 8.166666666666666,
+        "end": 16.35
+      },
+      {
+        "name": "golden_hour_evening",
+        "start": 16.35,
+        "end": 17.35
+      },
+      {
+        "name": "civil_twilight_end",
+        "start": 17.35,
+        "end": 17.85
+      },
+      {
+        "name": "nautical_twilight_end",
+        "start": 17.85,
+        "end": 18.4
+      },
+      {
+        "name": "astronomical_twilight_end",
+        "start": 18.4,
+        "end": 18.933333333333334
+      },
+      {
+        "name": "night_after",
+        "start": 18.933333333333334,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "day": "06",
+    "segments": [
+      {
+        "name": "night_before",
+        "start": 0,
+        "end": 5.566666666666666
+      },
+      {
+        "name": "astronomical_twilight",
+        "start": 5.566666666666666,
+        "end": 6.116666666666666
+      },
+      {
+        "name": "nautical_twilight",
+        "start": 6.116666666666666,
+        "end": 6.666666666666667
+      },
+      {
+        "name": "civil_twilight",
+        "start": 6.666666666666667,
+        "end": 7.15
+      },
+      {
+        "name": "golden_hour_morning",
+        "start": 7.15,
+        "end": 8.15
+      },
+      {
+        "name": "daylight",
+        "start": 8.15,
+        "end": 16.366666666666667
+      },
+      {
+        "name": "golden_hour_evening",
+        "start": 16.366666666666667,
+        "end": 17.366666666666667
+      },
+      {
+        "name": "civil_twilight_end",
+        "start": 17.366666666666667,
+        "end": 17.866666666666667
+      },
+      {
+        "name": "nautical_twilight_end",
+        "start": 17.866666666666667,
+        "end": 18.416666666666668
+      },
+      {
+        "name": "astronomical_twilight_end",
+        "start": 18.416666666666668,
+        "end": 18.95
+      },
+      {
+        "name": "night_after",
+        "start": 18.95,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "day": "07",
+    "segments": [
+      {
+        "name": "night_before",
+        "start": 0,
+        "end": 5.55
+      },
+      {
+        "name": "astronomical_twilight",
+        "start": 5.55,
+        "end": 6.1
+      },
+      {
+        "name": "nautical_twilight",
+        "start": 6.1,
+        "end": 6.633333333333333
+      },
+      {
+        "name": "civil_twilight",
+        "start": 6.633333333333333,
+        "end": 7.133333333333334
+      },
+      {
+        "name": "golden_hour_morning",
+        "start": 7.133333333333334,
+        "end": 8.133333333333333
+      },
+      {
+        "name": "daylight",
+        "start": 8.133333333333333,
+        "end": 16.383333333333333
+      },
+      {
+        "name": "golden_hour_evening",
+        "start": 16.383333333333333,
+        "end": 17.383333333333333
+      },
+      {
+        "name": "civil_twilight_end",
+        "start": 17.383333333333333,
+        "end": 17.883333333333333
+      },
+      {
+        "name": "nautical_twilight_end",
+        "start": 17.883333333333333,
+        "end": 18.433333333333334
+      },
+      {
+        "name": "astronomical_twilight_end",
+        "start": 18.433333333333334,
+        "end": 18.966666666666665
+      },
+      {
+        "name": "night_after",
+        "start": 18.966666666666665,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "day": "08",
+    "segments": [
+      {
+        "name": "night_before",
+        "start": 0,
+        "end": 5.533333333333333
+      },
+      {
+        "name": "astronomical_twilight",
+        "start": 5.533333333333333,
+        "end": 6.066666666666666
+      },
+      {
+        "name": "nautical_twilight",
+        "start": 6.066666666666666,
+        "end": 6.616666666666667
+      },
+      {
+        "name": "civil_twilight",
+        "start": 6.616666666666667,
+        "end": 7.116666666666666
+      },
+      {
+        "name": "golden_hour_morning",
+        "start": 7.116666666666666,
+        "end": 8.116666666666667
+      },
+      {
+        "name": "daylight",
+        "start": 8.116666666666667,
+        "end": 16.416666666666668
+      },
+      {
+        "name": "golden_hour_evening",
+        "start": 16.416666666666668,
+        "end": 17.416666666666668
+      },
+      {
+        "name": "civil_twilight_end",
+        "start": 17.416666666666668,
+        "end": 17.9
+      },
+      {
+        "name": "nautical_twilight_end",
+        "start": 17.9,
+        "end": 18.45
+      },
+      {
+        "name": "astronomical_twilight_end",
+        "start": 18.45,
+        "end": 19.0
+      },
+      {
+        "name": "night_after",
+        "start": 19.0,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "day": "09",
+    "segments": [
+      {
+        "name": "night_before",
+        "start": 0,
+        "end": 5.516666666666667
+      },
+      {
+        "name": "astronomical_twilight",
+        "start": 5.516666666666667,
+        "end": 6.05
+      },
+      {
+        "name": "nautical_twilight",
+        "start": 6.05,
+        "end": 6.6
+      },
+      {
+        "name": "civil_twilight",
+        "start": 6.6,
+        "end": 7.1
+      },
+      {
+        "name": "golden_hour_morning",
+        "start": 7.1,
+        "end": 8.1
+      },
+      {
+        "name": "daylight",
+        "start": 8.1,
+        "end": 16.433333333333334
+      },
+      {
+        "name": "golden_hour_evening",
+        "start": 16.433333333333334,
+        "end": 17.433333333333334
+      },
+      {
+        "name": "civil_twilight_end",
+        "start": 17.433333333333334,
+        "end": 17.933333333333334
+      },
+      {
+        "name": "nautical_twilight_end",
+        "start": 17.933333333333334,
+        "end": 18.466666666666665
+      },
+      {
+        "name": "astronomical_twilight_end",
+        "start": 18.466666666666665,
+        "end": 19.016666666666666
+      },
+      {
+        "name": "night_after",
+        "start": 19.016666666666666,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "day": "10",
+    "segments": [
+      {
+        "name": "night_before",
+        "start": 0,
+        "end": 5.5
+      },
+      {
+        "name": "astronomical_twilight",
+        "start": 5.5,
+        "end": 6.033333333333333
+      },
+      {
+        "name": "nautical_twilight",
+        "start": 6.033333333333333,
+        "end": 6.583333333333333
+      },
+      {
+        "name": "civil_twilight",
+        "start": 6.583333333333333,
+        "end": 7.066666666666666
+      },
+      {
+        "name": "golden_hour_morning",
+        "start": 7.066666666666666,
+        "end": 8.066666666666666
+      },
+      {
+        "name": "daylight",
+        "start": 8.066666666666666,
+        "end": 16.45
+      },
+      {
+        "name": "golden_hour_evening",
+        "start": 16.45,
+        "end": 17.45
+      },
+      {
+        "name": "civil_twilight_end",
+        "start": 17.45,
+        "end": 17.95
+      },
+      {
+        "name": "nautical_twilight_end",
+        "start": 17.95,
+        "end": 18.483333333333334
+      },
+      {
+        "name": "astronomical_twilight_end",
+        "start": 18.483333333333334,
+        "end": 19.033333333333335
+      },
+      {
+        "name": "night_after",
+        "start": 19.033333333333335,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "day": "11",
+    "segments": [
+      {
+        "name": "night_before",
+        "start": 0,
+        "end": 5.483333333333333
+      },
+      {
+        "name": "astronomical_twilight",
+        "start": 5.483333333333333,
+        "end": 6.016666666666667
+      },
+      {
+        "name": "nautical_twilight",
+        "start": 6.016666666666667,
+        "end": 6.566666666666666
+      },
+      {
+        "name": "civil_twilight",
+        "start": 6.566666666666666,
+        "end": 7.05
+      },
+      {
+        "name": "golden_hour_morning",
+        "start": 7.05,
+        "end": 8.05
+      },
+      {
+        "name": "daylight",
+        "start": 8.05,
+        "end": 16.483333333333334
+      },
+      {
+        "name": "golden_hour_evening",
+        "start": 16.483333333333334,
+        "end": 17.483333333333334
+      },
+      {
+        "name": "civil_twilight_end",
+        "start": 17.483333333333334,
+        "end": 17.966666666666665
+      },
+      {
+        "name": "nautical_twilight_end",
+        "start": 17.966666666666665,
+        "end": 18.516666666666666
+      },
+      {
+        "name": "astronomical_twilight_end",
+        "start": 18.516666666666666,
+        "end": 19.05
+      },
+      {
+        "name": "night_after",
+        "start": 19.05,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "day": "12",
+    "segments": [
+      {
+        "name": "night_before",
+        "start": 0,
+        "end": 5.466666666666667
+      },
+      {
+        "name": "astronomical_twilight",
+        "start": 5.466666666666667,
+        "end": 6.0
+      },
+      {
+        "name": "nautical_twilight",
+        "start": 6.0,
+        "end": 6.55
+      },
+      {
+        "name": "civil_twilight",
+        "start": 6.55,
+        "end": 7.033333333333333
+      },
+      {
+        "name": "golden_hour_morning",
+        "start": 7.033333333333333,
+        "end": 8.033333333333333
+      },
+      {
+        "name": "daylight",
+        "start": 8.033333333333333,
+        "end": 16.5
+      },
+      {
+        "name": "golden_hour_evening",
+        "start": 16.5,
+        "end": 17.5
+      },
+      {
+        "name": "civil_twilight_end",
+        "start": 17.5,
+        "end": 17.983333333333334
+      },
+      {
+        "name": "nautical_twilight_end",
+        "start": 17.983333333333334,
+        "end": 18.533333333333335
+      },
+      {
+        "name": "astronomical_twilight_end",
+        "start": 18.533333333333335,
+        "end": 19.066666666666666
+      },
+      {
+        "name": "night_after",
+        "start": 19.066666666666666,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "day": "13",
+    "segments": [
+      {
+        "name": "night_before",
+        "start": 0,
+        "end": 5.45
+      },
+      {
+        "name": "astronomical_twilight",
+        "start": 5.45,
+        "end": 5.983333333333333
+      },
+      {
+        "name": "nautical_twilight",
+        "start": 5.983333333333333,
+        "end": 6.516666666666667
+      },
+      {
+        "name": "civil_twilight",
+        "start": 6.516666666666667,
+        "end": 7.016666666666667
+      },
+      {
+        "name": "golden_hour_morning",
+        "start": 7.016666666666667,
+        "end": 8.016666666666667
+      },
+      {
+        "name": "daylight",
+        "start": 8.016666666666667,
+        "end": 16.516666666666666
+      },
+      {
+        "name": "golden_hour_evening",
+        "start": 16.516666666666666,
+        "end": 17.516666666666666
+      },
+      {
+        "name": "civil_twilight_end",
+        "start": 17.516666666666666,
+        "end": 18.0
+      },
+      {
+        "name": "nautical_twilight_end",
+        "start": 18.0,
+        "end": 18.55
+      },
+      {
+        "name": "astronomical_twilight_end",
+        "start": 18.55,
+        "end": 19.083333333333332
+      },
+      {
+        "name": "night_after",
+        "start": 19.083333333333332,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "day": "14",
+    "segments": [
+      {
+        "name": "night_before",
+        "start": 0,
+        "end": 5.416666666666667
+      },
+      {
+        "name": "astronomical_twilight",
+        "start": 5.416666666666667,
+        "end": 5.966666666666667
+      },
+      {
+        "name": "nautical_twilight",
+        "start": 5.966666666666667,
+        "end": 6.5
+      },
+      {
+        "name": "civil_twilight",
+        "start": 6.5,
+        "end": 6.983333333333333
+      },
+      {
+        "name": "golden_hour_morning",
+        "start": 6.983333333333333,
+        "end": 7.983333333333333
+      },
+      {
+        "name": "daylight",
+        "start": 7.983333333333333,
+        "end": 16.533333333333335
+      },
+      {
+        "name": "golden_hour_evening",
+        "start": 16.533333333333335,
+        "end": 17.533333333333335
+      },
+      {
+        "name": "civil_twilight_end",
+        "start": 17.533333333333335,
+        "end": 18.033333333333335
+      },
+      {
+        "name": "nautical_twilight_end",
+        "start": 18.033333333333335,
+        "end": 18.566666666666666
+      },
+      {
+        "name": "astronomical_twilight_end",
+        "start": 18.566666666666666,
+        "end": 19.1
+      },
+      {
+        "name": "night_after",
+        "start": 19.1,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "day": "15",
+    "segments": [
+      {
+        "name": "night_before",
+        "start": 0,
+        "end": 5.4
+      },
+      {
+        "name": "astronomical_twilight",
+        "start": 5.4,
+        "end": 5.933333333333334
+      },
+      {
+        "name": "nautical_twilight",
+        "start": 5.933333333333334,
+        "end": 6.483333333333333
+      },
+      {
+        "name": "civil_twilight",
+        "start": 6.483333333333333,
+        "end": 6.966666666666667
+      },
+      {
+        "name": "golden_hour_morning",
+        "start": 6.966666666666667,
+        "end": 7.966666666666667
+      },
+      {
+        "name": "daylight",
+        "start": 7.966666666666667,
+        "end": 16.566666666666666
+      },
+      {
+        "name": "golden_hour_evening",
+        "start": 16.566666666666666,
+        "end": 17.566666666666666
+      },
+      {
+        "name": "civil_twilight_end",
+        "start": 17.566666666666666,
+        "end": 18.05
+      },
+      {
+        "name": "nautical_twilight_end",
+        "start": 18.05,
+        "end": 18.583333333333332
+      },
+      {
+        "name": "astronomical_twilight_end",
+        "start": 18.583333333333332,
+        "end": 19.133333333333333
+      },
+      {
+        "name": "night_after",
+        "start": 19.133333333333333,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "day": "16",
+    "segments": [
+      {
+        "name": "night_before",
+        "start": 0,
+        "end": 5.383333333333334
+      },
+      {
+        "name": "astronomical_twilight",
+        "start": 5.383333333333334,
+        "end": 5.916666666666667
+      },
+      {
+        "name": "nautical_twilight",
+        "start": 5.916666666666667,
+        "end": 6.466666666666667
+      },
+      {
+        "name": "civil_twilight",
+        "start": 6.466666666666667,
+        "end": 6.95
+      },
+      {
+        "name": "golden_hour_morning",
+        "start": 6.95,
+        "end": 7.95
+      },
+      {
+        "name": "daylight",
+        "start": 7.95,
+        "end": 16.583333333333332
+      },
+      {
+        "name": "golden_hour_evening",
+        "start": 16.583333333333332,
+        "end": 17.583333333333332
+      },
+      {
+        "name": "civil_twilight_end",
+        "start": 17.583333333333332,
+        "end": 18.066666666666666
+      },
+      {
+        "name": "nautical_twilight_end",
+        "start": 18.066666666666666,
+        "end": 18.6
+      },
+      {
+        "name": "astronomical_twilight_end",
+        "start": 18.6,
+        "end": 19.15
+      },
+      {
+        "name": "night_after",
+        "start": 19.15,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "day": "17",
+    "segments": [
+      {
+        "name": "night_before",
+        "start": 0,
+        "end": 5.366666666666666
+      },
+      {
+        "name": "astronomical_twilight",
+        "start": 5.366666666666666,
+        "end": 5.9
+      },
+      {
+        "name": "nautical_twilight",
+        "start": 5.9,
+        "end": 6.433333333333334
+      },
+      {
+        "name": "civil_twilight",
+        "start": 6.433333333333334,
+        "end": 6.916666666666667
+      },
+      {
+        "name": "golden_hour_morning",
+        "start": 6.916666666666667,
+        "end": 7.916666666666667
+      },
+      {
+        "name": "daylight",
+        "start": 7.916666666666667,
+        "end": 16.6
+      },
+      {
+        "name": "golden_hour_evening",
+        "start": 16.6,
+        "end": 17.6
+      },
+      {
+        "name": "civil_twilight_end",
+        "start": 17.6,
+        "end": 18.083333333333332
+      },
+      {
+        "name": "nautical_twilight_end",
+        "start": 18.083333333333332,
+        "end": 18.633333333333333
+      },
+      {
+        "name": "astronomical_twilight_end",
+        "start": 18.633333333333333,
+        "end": 19.166666666666668
+      },
+      {
+        "name": "night_after",
+        "start": 19.166666666666668,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "day": "18",
+    "segments": [
+      {
+        "name": "night_before",
+        "start": 0,
+        "end": 5.333333333333333
+      },
+      {
+        "name": "astronomical_twilight",
+        "start": 5.333333333333333,
+        "end": 5.866666666666667
+      },
+      {
+        "name": "nautical_twilight",
+        "start": 5.866666666666667,
+        "end": 6.416666666666667
+      },
+      {
+        "name": "civil_twilight",
+        "start": 6.416666666666667,
+        "end": 6.9
+      },
+      {
+        "name": "golden_hour_morning",
+        "start": 6.9,
+        "end": 7.9
+      },
+      {
+        "name": "daylight",
+        "start": 7.9,
+        "end": 16.616666666666667
+      },
+      {
+        "name": "golden_hour_evening",
+        "start": 16.616666666666667,
+        "end": 17.616666666666667
+      },
+      {
+        "name": "civil_twilight_end",
+        "start": 17.616666666666667,
+        "end": 18.1
+      },
+      {
+        "name": "nautical_twilight_end",
+        "start": 18.1,
+        "end": 18.65
+      },
+      {
+        "name": "astronomical_twilight_end",
+        "start": 18.65,
+        "end": 19.183333333333334
+      },
+      {
+        "name": "night_after",
+        "start": 19.183333333333334,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "day": "19",
+    "segments": [
+      {
+        "name": "night_before",
+        "start": 0,
+        "end": 5.316666666666666
+      },
+      {
+        "name": "astronomical_twilight",
+        "start": 5.316666666666666,
+        "end": 5.85
+      },
+      {
+        "name": "nautical_twilight",
+        "start": 5.85,
+        "end": 6.383333333333334
+      },
+      {
+        "name": "civil_twilight",
+        "start": 6.383333333333334,
+        "end": 6.866666666666667
+      },
+      {
+        "name": "golden_hour_morning",
+        "start": 6.866666666666667,
+        "end": 7.866666666666667
+      },
+      {
+        "name": "daylight",
+        "start": 7.866666666666667,
+        "end": 16.65
+      },
+      {
+        "name": "golden_hour_evening",
+        "start": 16.65,
+        "end": 17.65
+      },
+      {
+        "name": "civil_twilight_end",
+        "start": 17.65,
+        "end": 18.133333333333333
+      },
+      {
+        "name": "nautical_twilight_end",
+        "start": 18.133333333333333,
+        "end": 18.666666666666668
+      },
+      {
+        "name": "astronomical_twilight_end",
+        "start": 18.666666666666668,
+        "end": 19.2
+      },
+      {
+        "name": "night_after",
+        "start": 19.2,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "day": "20",
+    "segments": [
+      {
+        "name": "night_before",
+        "start": 0,
+        "end": 5.3
+      },
+      {
+        "name": "astronomical_twilight",
+        "start": 5.3,
+        "end": 5.833333333333333
+      },
+      {
+        "name": "nautical_twilight",
+        "start": 5.833333333333333,
+        "end": 6.366666666666666
+      },
+      {
+        "name": "civil_twilight",
+        "start": 6.366666666666666,
+        "end": 6.85
+      },
+      {
+        "name": "golden_hour_morning",
+        "start": 6.85,
+        "end": 7.85
+      },
+      {
+        "name": "daylight",
+        "start": 7.85,
+        "end": 16.666666666666668
+      },
+      {
+        "name": "golden_hour_evening",
+        "start": 16.666666666666668,
+        "end": 17.666666666666668
+      },
+      {
+        "name": "civil_twilight_end",
+        "start": 17.666666666666668,
+        "end": 18.15
+      },
+      {
+        "name": "nautical_twilight_end",
+        "start": 18.15,
+        "end": 18.683333333333334
+      },
+      {
+        "name": "astronomical_twilight_end",
+        "start": 18.683333333333334,
+        "end": 19.216666666666665
+      },
+      {
+        "name": "night_after",
+        "start": 19.216666666666665,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "day": "21",
+    "segments": [
+      {
+        "name": "night_before",
+        "start": 0,
+        "end": 5.266666666666667
+      },
+      {
+        "name": "astronomical_twilight",
+        "start": 5.266666666666667,
+        "end": 5.8
+      },
+      {
+        "name": "nautical_twilight",
+        "start": 5.8,
+        "end": 6.35
+      },
+      {
+        "name": "civil_twilight",
+        "start": 6.35,
+        "end": 6.833333333333333
+      },
+      {
+        "name": "golden_hour_morning",
+        "start": 6.833333333333333,
+        "end": 7.833333333333333
+      },
+      {
+        "name": "daylight",
+        "start": 7.833333333333333,
+        "end": 16.683333333333334
+      },
+      {
+        "name": "golden_hour_evening",
+        "start": 16.683333333333334,
+        "end": 17.683333333333334
+      },
+      {
+        "name": "civil_twilight_end",
+        "start": 17.683333333333334,
+        "end": 18.166666666666668
+      },
+      {
+        "name": "nautical_twilight_end",
+        "start": 18.166666666666668,
+        "end": 18.7
+      },
+      {
+        "name": "astronomical_twilight_end",
+        "start": 18.7,
+        "end": 19.25
+      },
+      {
+        "name": "night_after",
+        "start": 19.25,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "day": "22",
+    "segments": [
+      {
+        "name": "night_before",
+        "start": 0,
+        "end": 5.25
+      },
+      {
+        "name": "astronomical_twilight",
+        "start": 5.25,
+        "end": 5.783333333333333
+      },
+      {
+        "name": "nautical_twilight",
+        "start": 5.783333333333333,
+        "end": 6.316666666666666
+      },
+      {
+        "name": "civil_twilight",
+        "start": 6.316666666666666,
+        "end": 6.8
+      },
+      {
+        "name": "golden_hour_morning",
+        "start": 6.8,
+        "end": 7.8
+      },
+      {
+        "name": "daylight",
+        "start": 7.8,
+        "end": 16.7
+      },
+      {
+        "name": "golden_hour_evening",
+        "start": 16.7,
+        "end": 17.7
+      },
+      {
+        "name": "civil_twilight_end",
+        "start": 17.7,
+        "end": 18.183333333333334
+      },
+      {
+        "name": "nautical_twilight_end",
+        "start": 18.183333333333334,
+        "end": 18.716666666666665
+      },
+      {
+        "name": "astronomical_twilight_end",
+        "start": 18.716666666666665,
+        "end": 19.266666666666666
+      },
+      {
+        "name": "night_after",
+        "start": 19.266666666666666,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "day": "23",
+    "segments": [
+      {
+        "name": "night_before",
+        "start": 0,
+        "end": 5.216666666666667
+      },
+      {
+        "name": "astronomical_twilight",
+        "start": 5.216666666666667,
+        "end": 5.766666666666667
+      },
+      {
+        "name": "nautical_twilight",
+        "start": 5.766666666666667,
+        "end": 6.3
+      },
+      {
+        "name": "civil_twilight",
+        "start": 6.3,
+        "end": 6.783333333333333
+      },
+      {
+        "name": "golden_hour_morning",
+        "start": 6.783333333333333,
+        "end": 7.783333333333333
+      },
+      {
+        "name": "daylight",
+        "start": 7.783333333333333,
+        "end": 16.733333333333334
+      },
+      {
+        "name": "golden_hour_evening",
+        "start": 16.733333333333334,
+        "end": 17.733333333333334
+      },
+      {
+        "name": "civil_twilight_end",
+        "start": 17.733333333333334,
+        "end": 18.2
+      },
+      {
+        "name": "nautical_twilight_end",
+        "start": 18.2,
+        "end": 18.75
+      },
+      {
+        "name": "astronomical_twilight_end",
+        "start": 18.75,
+        "end": 19.283333333333335
+      },
+      {
+        "name": "night_after",
+        "start": 19.283333333333335,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "day": "24",
+    "segments": [
+      {
+        "name": "night_before",
+        "start": 0,
+        "end": 5.2
+      },
+      {
+        "name": "astronomical_twilight",
+        "start": 5.2,
+        "end": 5.733333333333333
+      },
+      {
+        "name": "nautical_twilight",
+        "start": 5.733333333333333,
+        "end": 6.266666666666667
+      },
+      {
+        "name": "civil_twilight",
+        "start": 6.266666666666667,
+        "end": 6.75
+      },
+      {
+        "name": "golden_hour_morning",
+        "start": 6.75,
+        "end": 7.75
+      },
+      {
+        "name": "daylight",
+        "start": 7.75,
+        "end": 16.75
+      },
+      {
+        "name": "golden_hour_evening",
+        "start": 16.75,
+        "end": 17.75
+      },
+      {
+        "name": "civil_twilight_end",
+        "start": 17.75,
+        "end": 18.233333333333334
+      },
+      {
+        "name": "nautical_twilight_end",
+        "start": 18.233333333333334,
+        "end": 18.766666666666666
+      },
+      {
+        "name": "astronomical_twilight_end",
+        "start": 18.766666666666666,
+        "end": 19.3
+      },
+      {
+        "name": "night_after",
+        "start": 19.3,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "day": "25",
+    "segments": [
+      {
+        "name": "night_before",
+        "start": 0,
+        "end": 5.183333333333334
+      },
+      {
+        "name": "astronomical_twilight",
+        "start": 5.183333333333334,
+        "end": 5.716666666666667
+      },
+      {
+        "name": "nautical_twilight",
+        "start": 5.716666666666667,
+        "end": 6.25
+      },
+      {
+        "name": "civil_twilight",
+        "start": 6.25,
+        "end": 6.733333333333333
+      },
+      {
+        "name": "golden_hour_morning",
+        "start": 6.733333333333333,
+        "end": 7.733333333333333
+      },
+      {
+        "name": "daylight",
+        "start": 7.733333333333333,
+        "end": 16.766666666666666
+      },
+      {
+        "name": "golden_hour_evening",
+        "start": 16.766666666666666,
+        "end": 17.766666666666666
+      },
+      {
+        "name": "civil_twilight_end",
+        "start": 17.766666666666666,
+        "end": 18.25
+      },
+      {
+        "name": "nautical_twilight_end",
+        "start": 18.25,
+        "end": 18.783333333333335
+      },
+      {
+        "name": "astronomical_twilight_end",
+        "start": 18.783333333333335,
+        "end": 19.316666666666666
+      },
+      {
+        "name": "night_after",
+        "start": 19.316666666666666,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "day": "26",
+    "segments": [
+      {
+        "name": "night_before",
+        "start": 0,
+        "end": 5.15
+      },
+      {
+        "name": "astronomical_twilight",
+        "start": 5.15,
+        "end": 5.683333333333334
+      },
+      {
+        "name": "nautical_twilight",
+        "start": 5.683333333333334,
+        "end": 6.216666666666667
+      },
+      {
+        "name": "civil_twilight",
+        "start": 6.216666666666667,
+        "end": 6.7
+      },
+      {
+        "name": "golden_hour_morning",
+        "start": 6.7,
+        "end": 7.7
+      },
+      {
+        "name": "daylight",
+        "start": 7.7,
+        "end": 16.783333333333335
+      },
+      {
+        "name": "golden_hour_evening",
+        "start": 16.783333333333335,
+        "end": 17.783333333333335
+      },
+      {
+        "name": "civil_twilight_end",
+        "start": 17.783333333333335,
+        "end": 18.266666666666666
+      },
+      {
+        "name": "nautical_twilight_end",
+        "start": 18.266666666666666,
+        "end": 18.8
+      },
+      {
+        "name": "astronomical_twilight_end",
+        "start": 18.8,
+        "end": 19.333333333333332
+      },
+      {
+        "name": "night_after",
+        "start": 19.333333333333332,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "day": "27",
+    "segments": [
+      {
+        "name": "night_before",
+        "start": 0,
+        "end": 5.133333333333334
+      },
+      {
+        "name": "astronomical_twilight",
+        "start": 5.133333333333334,
+        "end": 5.666666666666667
+      },
+      {
+        "name": "nautical_twilight",
+        "start": 5.666666666666667,
+        "end": 6.2
+      },
+      {
+        "name": "civil_twilight",
+        "start": 6.2,
+        "end": 6.666666666666667
+      },
+      {
+        "name": "golden_hour_morning",
+        "start": 6.666666666666667,
+        "end": 7.666666666666667
+      },
+      {
+        "name": "daylight",
+        "start": 7.666666666666667,
+        "end": 16.8
+      },
+      {
+        "name": "golden_hour_evening",
+        "start": 16.8,
+        "end": 17.8
+      },
+      {
+        "name": "civil_twilight_end",
+        "start": 17.8,
+        "end": 18.283333333333335
+      },
+      {
+        "name": "nautical_twilight_end",
+        "start": 18.283333333333335,
+        "end": 18.816666666666666
+      },
+      {
+        "name": "astronomical_twilight_end",
+        "start": 18.816666666666666,
+        "end": 19.35
+      },
+      {
+        "name": "night_after",
+        "start": 19.35,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "day": "28",
+    "segments": [
+      {
+        "name": "night_before",
+        "start": 0,
+        "end": 5.1
+      },
+      {
+        "name": "astronomical_twilight",
+        "start": 5.1,
+        "end": 5.633333333333333
+      },
+      {
+        "name": "nautical_twilight",
+        "start": 5.633333333333333,
+        "end": 6.166666666666667
+      },
+      {
+        "name": "civil_twilight",
+        "start": 6.166666666666667,
+        "end": 6.65
+      },
+      {
+        "name": "golden_hour_morning",
+        "start": 6.65,
+        "end": 7.65
+      },
+      {
+        "name": "daylight",
+        "start": 7.65,
+        "end": 16.833333333333332
+      },
+      {
+        "name": "golden_hour_evening",
+        "start": 16.833333333333332,
+        "end": 17.833333333333332
+      },
+      {
+        "name": "civil_twilight_end",
+        "start": 17.833333333333332,
+        "end": 18.3
+      },
+      {
+        "name": "nautical_twilight_end",
+        "start": 18.3,
+        "end": 18.833333333333332
+      },
+      {
+        "name": "astronomical_twilight_end",
+        "start": 18.833333333333332,
+        "end": 19.383333333333333
+      },
+      {
+        "name": "night_after",
+        "start": 19.383333333333333,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "day": "29",
+    "segments": [
+      {
+        "name": "night_before",
+        "start": 0,
+        "end": 5.066666666666666
+      },
+      {
+        "name": "astronomical_twilight",
+        "start": 5.066666666666666,
+        "end": 5.616666666666667
+      },
+      {
+        "name": "nautical_twilight",
+        "start": 5.616666666666667,
+        "end": 6.15
+      },
+      {
+        "name": "civil_twilight",
+        "start": 6.15,
+        "end": 6.616666666666667
+      },
+      {
+        "name": "golden_hour_morning",
+        "start": 6.616666666666667,
+        "end": 7.616666666666667
+      },
+      {
+        "name": "daylight",
+        "start": 7.616666666666667,
+        "end": 16.85
+      },
+      {
+        "name": "golden_hour_evening",
+        "start": 16.85,
+        "end": 17.85
+      },
+      {
+        "name": "civil_twilight_end",
+        "start": 17.85,
+        "end": 18.316666666666666
+      },
+      {
+        "name": "nautical_twilight_end",
+        "start": 18.316666666666666,
+        "end": 18.866666666666667
+      },
+      {
+        "name": "astronomical_twilight_end",
+        "start": 18.866666666666667,
+        "end": 19.4
+      },
+      {
+        "name": "night_after",
+        "start": 19.4,
+        "end": 24
+      }
+    ]
+  }
+]
